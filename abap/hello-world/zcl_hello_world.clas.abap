@@ -6,7 +6,7 @@ ENDCLASS.
 CLASS zcl_hello_world IMPLEMENTATION.
 
   METHOD hello.
-    result = 'Hello World!'.
+    result = 'Hello, World!'.
   ENDMETHOD.
 
 ENDCLASS.
